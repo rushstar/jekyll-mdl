@@ -1,14 +1,14 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: 복분자 네트워크
+email: bokbunja@protonmail.ch
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bok.one" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: bokone2010
+github_username:  rushstar
 google_play: 'GDGX'
 google_plus_com: '109485346959707049693'  # Community link
 google_plus_per: '+GDGManagua'  #Personal link
@@ -21,8 +21,8 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
+    name: BOK 프리즘 (페이스북)
+    link: https://www.facebook.com/bokprizm
   option2:
     name: Cool Option 2
     link: www.myawesomelink.com
